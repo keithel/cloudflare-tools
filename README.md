@@ -19,3 +19,8 @@ To use:
  * Provide your token to the script one of two ways:
    * `CF_TOKEN` environment variable
    * `cf.token` file. The file should have just the token, nothing else except optional whitespace.
+
+## References
+
+https://github.com/cloudflare/python-cloudflare was helpful for seeing how to use the API.
+The examples contained therein were also useful.
